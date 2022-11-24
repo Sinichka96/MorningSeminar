@@ -8,5 +8,5 @@
 ## Branch merging
 
 * *git merge name* - команда, осуществляющая слияние текущей ветки с name
-
+momma
 ## Conflicts
